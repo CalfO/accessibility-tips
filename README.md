@@ -11,11 +11,13 @@ Liste de tips accessibilité et d'outils pour la validation
 ## Liste de extention chrome pour checker l'accessibilité dans les sites web
 - [WAVE Evaluation Tool](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl=fr&utm_source=ext_sidebar)
 - [WCAG Color contrast checker](https://chromewebstore.google.com/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=fr&utm_source=ext_sidebar)
-- [HeadingsMap] (https://chromewebstore.google.com/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=fr&utm_source=ext_sidebar)
+- [HeadingsMap](https://chromewebstore.google.com/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=fr&utm_source=ext_sidebar)
 - [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=fr&utm_source=ext_sidebar)
 - [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=fr&utm_source=ext_sidebar)
 - [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=fr&utm_source=ext_sidebar)
--- Pour la lecture --
+
+-- Pour la lecture --  
+
 - [Access Config](https://accessconfig.a11y.fr/)
 - [Orange confort +](https://confort-plus.orange.com/)
 
